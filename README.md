@@ -18,7 +18,8 @@
       SPI MOSI   11               51                MOSI
       SPI MISO   12               50                MISO
       SPI SCK    13               52                SCK
-   			  3.3V              3.3V             VCC
+   	
+      N/B : The RFID module operates on 3.3V
 
 
 
